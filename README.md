@@ -5,6 +5,6 @@
 - 📫 How to reach me: yakutmuder@gmail.com
 
 <!---
-Yakutmuder9/Yakutmuder9 is my ✨ special ✨ repository because it my GitHub profile.
-You can click the Preview link to look changes.
+Yakutmuder9/Dashboard-Portfolio-Project is my ✨ special ✨ repository on my GitHub profile.
+You can click the Preview link to look every changes.
 --->
