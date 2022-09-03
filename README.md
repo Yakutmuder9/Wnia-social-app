@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yakut Ahmedin
 - 👀 I’m interested in building website.
 - 🌱 I’m currently learning web Development at Bellevue University.
-- 💞️ I’m looking to collaborate wed dev team .
+- 💞️ I’m looking to collaborate wed dev team.
 - 📫 How to reach me: yahmedin@habshi.tech
 
 <!---
