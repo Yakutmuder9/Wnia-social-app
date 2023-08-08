@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yakut Ahmedin
+- 👋 Hi, I’m Yakut Ahmedin
 - 👀 I’m interested in building website.
 - 🌱 I’m currently learning web Development at Bellevue University.
 - 💞️ I’m looking to collaborate wed dev team.
