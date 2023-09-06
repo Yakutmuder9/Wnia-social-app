@@ -23,3 +23,30 @@ You can click the Preview link to look every changes.
 - 🔭 Working on ChatCool (Bot)
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord),
+
+## Languages I Know:
+
+<p align="left"> <a href="https://github.com/Yakutmuder9"><img src="https://skillicons.dev/icons?i=vscode,github,git,mongodb,css,html,js,express,nodejs,figma&theme=light),react,angular,bootstrap,tailwind,firebase,"> </a> </p>
+
+
+## My Stats:
+
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Yakutmuder9&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub:
+
+<p align="center">
+  <a href="https://github.com/Yakutmuder9">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yakutmuder9&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositorys:
+
+  <p align="left">
+     <a href="https://github.com/Yakutmuder9/yakutmuder9"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakutmuder9/MyPortfolior"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/CarComet-Car-Shopping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
