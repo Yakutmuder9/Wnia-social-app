@@ -20,8 +20,8 @@ You can click the Preview link to look every changes.
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
 - 🌱 I’m currently learning web Development at Bellevue University.
+- 👀 I’m interested in building website.
 - 📫 How to reach me: yakutmuder9@gmail.com, Yakutmuder9 (Discord),
 
 ## Languages I Know:
