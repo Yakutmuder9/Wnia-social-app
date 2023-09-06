@@ -26,7 +26,7 @@ You can click the Preview link to look every changes.
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/Yakutmuder9"><img src="https://skillicons.dev/icons?i=vscode,github,git,mongodb,css,html,js,express,nodejs,figma,react,angular,bootstrap,tailwind,firebase"> </a> </p>
+<p align="left"> <a href="https://github.com/Yakutmuder9"><img src="https://skillicons.dev/icons?i=vscode,github,git,html,css,js,ts,express,nodejs,figma,react,angular,bootstrap,tailwind,materialui,mongodb,firebase"> </a> </p>
 
 ## My Stats:
 
