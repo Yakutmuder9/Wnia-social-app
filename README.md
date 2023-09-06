@@ -39,7 +39,7 @@ You can click the Preview link to look every changes.
 
 <p align="center">
   <a href="https://github.com/Yakutmuder9">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yakutmuder9&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-status.herokuapp.com/?user=Yakutmuder9&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
