@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning web Development at Bellevue University.
 - 👀 I’m interested in building website.
-- 📫 How to reach me: yakutmuder9@gmail.com, Yakut#1069 (Discord), <a href="www.linkedin.com/in/yakut-ahmedin">(linked Ln) 
+- 📫 How to reach me: yakutmuder9@gmail.com, <a href="https://discord.com/channels/@me">(Discord)</a>, <a href="www.linkedin.com/in/yakut-ahmedin">(linked Ln) 
  </a>
 ## Languages I Know:
 
