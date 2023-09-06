@@ -1,29 +1,18 @@
-<!---
-- 👋 Hi, I’m Yakut Ahmedin
-- 👀 I’m interested in building website.
-
-- 💞️ I’m looking to collaborate wed dev team.
-- 📫 How to reach me: yahmedin@habshi.tech
-
-
-Yakutmuder9/Dashboard-Portfolio-Project is my ✨ special ✨ repository on my GitHub profile.
-You can click the Preview link to look every changes.
---->
 ## Introduction
 
 <p align="center
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Yakutmuder9">Yakut AHmedin</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/Yakutmuder9">Yakut Ahmedin</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 ## What I'm Doing
 
 - 🌱 I’m currently learning web Development at Bellevue University.
 - 👀 I’m interested in building website.
-- 📫 How to reach me: yakutmuder9@gmail.com, Yakutmuder9 (Discord),
-
+- 📫 How to reach me: yakutmuder9@gmail.com, Yakut#1069 (Discord), <a href="www.linkedin.com/in/yakut-ahmedin">(linked Ln) 
+ </a>
 ## Languages I Know:
 
 <p align="left"> <a href="https://github.com/Yakutmuder9"><img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,ts,express,nodejs,figma,react,angular,bootstrap,tailwind,materialui,mongodb,firebase"> </a> </p>
