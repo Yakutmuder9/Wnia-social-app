@@ -22,7 +22,7 @@ You can click the Preview link to look every changes.
 
 - 🔭 Working on ChatCool (Bot)
 - 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord),
+- 📫 How to contact me: https://scratch.mit.edu/users/Yakutmuder9/, Yakutmuder9 (Discord),
 
 ## Languages I Know:
 
