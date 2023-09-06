@@ -39,7 +39,7 @@ You can click the Preview link to look every changes.
 
 <p align="center">
   <a href="https://github.com/Yakutmuder9">      
-<img title="stats" alt="streak" src="https://github-readme-streak-status.herokuapp.com/?user=Yakutmuder9&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yakutmuder9&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
@@ -48,5 +48,5 @@ You can click the Preview link to look every changes.
   <p align="left">
      <a href="https://github.com/Yakutmuder9/yakutmuder9"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=MyPortfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Yakutmuder9/MyPortfolior"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=Furniture-Shop&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/CarComet-Car-Shopping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Furniture-Shop&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/CarComet-Car-Shopping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarComet-Car-Shoppin&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
