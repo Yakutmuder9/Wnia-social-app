@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I’m Yakut Ahmedin
 - 👀 I’m interested in building website.
-- 🌱 I’m currently learning web Development at Bellevue University.
+
 - 💞️ I’m looking to collaborate wed dev team.
 - 📫 How to reach me: yahmedin@habshi.tech
 
@@ -21,8 +21,8 @@ You can click the Preview link to look every changes.
 ## What I'm Doing
 
 - 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Yakutmuder9/, Yakutmuder9 (Discord),
+- 🌱 I’m currently learning web Development at Bellevue University.
+- 📫 How to reach me: yakutmuder9@gmail.com, Yakutmuder9 (Discord),
 
 ## Languages I Know:
 
