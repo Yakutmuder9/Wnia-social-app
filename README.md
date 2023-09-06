@@ -46,7 +46,7 @@ You can click the Preview link to look every changes.
 ## Top Respositorys:
 
   <p align="left">
-     <a href="https://github.com/Yakutmuder9/yakutmuder9"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Yakutmuder9/MyPortfolior"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/CarComet-Car-Shopping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/Yakutmuder9/yakutmuder9"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=MyPortfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakutmuder9/MyPortfolior"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakutmuder9&repo=Furniture-Shop&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/CarComet-Car-Shopping"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Furniture-Shop&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
