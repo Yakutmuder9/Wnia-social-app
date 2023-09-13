@@ -17,13 +17,13 @@
 
 <p align="left"> <a href="https://github.com/Yakutmuder9"><img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,ts,express,nodejs,figma,react,angular,bootstrap,tailwind,materialui,mongodb,firebase"> </a> </p>
 
-<!-- -->
+<!-- 
 ## My Stats:
 
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Yakutmuder9&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
-
+-->
 
 
 ## Activity On GitHub:
